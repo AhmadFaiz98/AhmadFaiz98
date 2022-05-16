@@ -1,5 +1,3 @@
-32  
-antColonyTasks.py
 @@ -0,0 +1,32 @@
 from .antColony import AntColony
 
@@ -32,3 +30,4 @@ def antColonyTask():
     colony = AntColony(test_nodes, distance)
 
     # ...that will find the optimal solution with ACO
+    print(colony.mainloop())

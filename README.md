@@ -1,1 +1,1 @@
-Tugas-Kecerdasaan-Buatan
+Tugas_Kecerdasaan Buatan
